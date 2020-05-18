@@ -7,7 +7,7 @@ document.getElementById("send__btn").addEventListener("click", function (e) {
     "https://api.whatsapp.com/send?phone=+91" +
     userValue +
     "&text=" +
-    uesrMessage;
+    userMessage;
   window.open(send_message);
   e.preventDefault();
   return false;
