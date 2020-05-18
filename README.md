@@ -1,2 +1,2 @@
 # Boult
-Send whatsapp 
+Send Whatsapp messages without saving numbers.
